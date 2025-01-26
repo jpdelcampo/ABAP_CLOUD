@@ -1,0 +1,4 @@
+@EndUserText.label: 'Explorer CDS Articulos'
+define service ZSD_ARTICULOS {
+  expose ZCDS_ARTICULOS;
+}
